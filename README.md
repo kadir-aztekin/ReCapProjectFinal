@@ -14,6 +14,23 @@
 <h1>DATABASE TASARIM DIAGRAMI</h1>
 <img src="https://github.com/kadir-aztekin/ReCapFrontend-master/blob/917601c86623f38c64463abe06ef9f02094cd7c9/src/assets/img/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(70).png" width="45%"></img>
 
+<h1>ARCHITECTURAL</h1>
+BackendTecnologies <br>
+★Asp.Net Core for Restful api <br>
+★MsSql <br>
+★EntityFramework Core <br>
+★Autofac <br>
+★FluentValidation <br>
+★BackendTechniques <br>
+★Layered Architecture Design Pattern <br>
+★AOP <br>
+★JWT <br>
+★Autofac dependency resolver <br>
+★IOC <br>
+★Aspects <br>
+★Map Extensions <br>
+★File upload <br>
+
 <h1>PROJE AÇIKLAMASI</h1>
 C# VE ANGULAR TEMEL YAPILI ARAÇ KIRALAMA WEB SİTESİ
 
